@@ -1,0 +1,202 @@
+body {
+    background-color:black;
+}
+
+.project {
+    background-image: url("https://cdn.wallpapersafari.com/7/51/KTVIx2.jpg");
+    height: 100px;
+    background-position:fill;
+}
+
+.portfolio-img {
+    image-resolution:1080;
+    height:100px;
+    float:left;
+}
+
+.header-list-menu li {
+    list-style: none;
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top:10px;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-list {
+    color:white;
+    margin-right: 20px;
+}
+
+.header-list-menu:hover {
+    color:red;
+}
+
+.header-list {
+    text-align:center;
+}
+
+.header-list-social li {
+    list-style: none;
+    float: right;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top:10px;
+    margin-left: 15px;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+    background-image: url("https://mindworkzz.in/wp-content/uploads/2020/10/header.jpg");
+    height: 900px;
+    background-size: cover;
+}
+
+.about-me {
+    color:whitesmoke;
+    font-size:35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity:0.7;
+    padding-top:100px;
+    letter-spacing:3px;
+    text-align:center;
+}
+
+.aditi-roy {
+    font-weight:bold;
+    font-style: italic;
+}
+
+.scroll-down {
+    font-size:50px;
+    font-family:Snap-ITC;
+    font-weight:bold;
+}
+
+.my-photo {
+    height:300px;
+    float:right;
+    margin-top:100px;
+    margin-right:50px;
+}
+
+.more-about-me {
+    color:whitesmoke;
+    font-size:45px;
+    font-family: Britannic Bold;
+    opacity:0.7;
+    padding-top:100px;
+    letter-spacing:3px;
+    text-align:center;
+    font-weight: bold;
+}
+
+.main-down {
+    background-image: url("https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg");
+    height: 400px;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.tech-stack {
+    color:whitesmoke;
+    font-size:35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity:0.7;
+    padding-top:0px;
+    letter-spacing:3px;
+    text-align:center;
+    background-image: url("https://img.freepik.com/free-vector/blue-cyber-future-technology-concept-background_42077-488.jpg?size=626&ext=jpg");
+    height: 700px;
+}
+
+.lesson-icon {
+    float: left;
+    padding: 80px;
+}
+
+.lesson-icon p {
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity:0.7;
+    letter-spacing:3px;
+}
+
+.html-css img {
+    height:200px;
+}
+
+.javascript img {
+    height:160px;
+    margin-top:40px;
+}
+
+.tech {
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-size: 50px;
+}
+
+.before-tech {
+    opacity:0;
+}
+
+.footer {
+    background-image: url("https://cdn.wallpapersafari.com/7/51/KTVIx2.jpg");
+    height: 100px;
+    background-position:fill;
+}
+
+.ar-img {
+    image-resolution:1080;
+    height:100px;
+    float:right;
+    margin-left:50px;
+}
+
+.footer-list {
+    color:white;
+}
+
+.footer-list {
+    text-align:center;
+}
+
+.footer-list-social li {
+    list-style: none;
+    float: right;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top:10px;
+    margin-left: 15px;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact-me {
+    float:left;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: Britannic Bold;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+  
+.btn:hover {
+    opacity: 1;
+}
